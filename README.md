@@ -1,1 +1,1 @@
-# WhileLoop
+# Exercises that uses while loop
